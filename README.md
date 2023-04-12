@@ -11,3 +11,5 @@ LSTM1.ipynb\
 LSTM2.ipynb\
 Tf_Idf_Demo.ipynb\
 Word2Vec.ipynb
+#YouTube Video Link
+https://www.youtube.com/watch?v=UDpS-wW889w
